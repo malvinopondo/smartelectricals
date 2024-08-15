@@ -1,0 +1,12 @@
+.logo{
+   max-width: 15%;
+   max-height: 15%;
+   justify-content: space-around;
+   align-items: center;
+   margin-left: 100px;
+}
+.menu{
+    display: flex;
+    justify-content: space-between;
+    padding-right: 450px;
+}
