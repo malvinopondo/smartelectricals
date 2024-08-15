@@ -1,0 +1,30 @@
+.home{
+    display: flex;
+}
+.home2{
+    display:flex;
+}
+.home-title{
+    padding-top: 60px;
+    margin-left: 50px;
+    font-weight: 900;
+    font-size: 400%;
+}
+.home-descptn{
+    margin-left: 50px;
+    font-size: 20px;
+    padding-top: 20px;
+}
+/* .home-btn{
+    margin-top: 5%;
+    margin-left: 7%;
+} */
+.card{
+    margin-left: 50px;
+    max-height: 100%;
+    margin-top:5%;
+}
+button{
+margin-left: 50px;
+padding:20px, 20px;
+}
