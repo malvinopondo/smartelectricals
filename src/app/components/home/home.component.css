@@ -38,7 +38,9 @@ margin-top: 6%;
     display: flex;
     flex-direction: row;
     justify-content:space-evenly;
-    margin-top: 8%;
+    margin-top: 6%;
+    color: black;
+    margin-top: 5%;
     
 } 
 .fb, .ig, .linkedin, .x{
@@ -51,3 +53,23 @@ margin-top: 6%;
     margin-top: 5%;
 padding-left: 7%;
 }
+/* .bottom-arrow{
+    margin-top: 5%;
+    margin-left: 50%;
+    transform: translateX(-50%);
+    height: 20px;
+} */
+ .carousel-item{
+    height: 32rem;
+    background: #7777;
+    color: white;
+
+ }
+ .container{
+    position: absolute;
+    bottom: 0;
+    left: 0;
+    right: 0;
+    padding-bottom: 50px;
+
+ }
