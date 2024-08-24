@@ -4,11 +4,12 @@ import { NavbarComponent } from "./components/navbar/navbar.component";
 import { HomeComponent } from "./components/home/home.component";
 import { ServicesComponent } from "./components/services/services.component";
 import { FooterComponent } from "./components/footer/footer.component";
+import { SubscriptionComponent } from "./components/subscription/subscription.component";
 
 @Component({
   selector: 'app-root',
   standalone: true,
-  imports: [RouterOutlet, NavbarComponent, HomeComponent, ServicesComponent, FooterComponent],
+  imports: [RouterOutlet, NavbarComponent, HomeComponent, ServicesComponent, FooterComponent, SubscriptionComponent],
   templateUrl: './app.component.html',
   styleUrl: './app.component.css'
 })
