@@ -29,6 +29,9 @@
 
 }
  .home-pic2{
-    max-width: 20px;
-    height: 20px;
-} 
+        display: block;
+        max-width: 80%;
+        height: 100%;
+        padding-top: 7%;
+      }
+
